@@ -7,6 +7,6 @@ const Starred = () => {
       This is starred page
     </MainPageLayout>
   )
-}
+};
 
 export default Starred

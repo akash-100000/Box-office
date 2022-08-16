@@ -6,10 +6,10 @@ const MainPageLayout = ({children}) => {
   return (
     <div>
         <Title title="Box office" subtitle="Are You looking for a movie or an actor?"/>
-    <Navs/>
+    <Navs />
         {children}
     </div>
-  )
-}
+  );
+};
 
 export default MainPageLayout
